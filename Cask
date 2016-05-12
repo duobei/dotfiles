@@ -7,6 +7,7 @@
 (depends-on "ghc")
 (depends-on "company")
 (depends-on "company-ghc")
+(depends-on "sml-mode")
 (depends-on "solarized-theme")
 (depends-on "slime")
 (depends-on "sml-mode")
@@ -14,3 +15,5 @@
 (depends-on "utop")
 (depends-on "merlin")
 (depends-on "auto-complete")
+(depends-on "hindent")
+(depends-on "shm")
